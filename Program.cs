@@ -9,6 +9,7 @@
                 Console.WriteLine("헤더입니다.");
                 Console.WriteLine("SignUp");
                 Console.WriteLine("about");
+                Console.WriteLine("관리자");
             }
 
             Console.WriteLine("article");
